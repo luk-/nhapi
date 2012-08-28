@@ -1,0 +1,23 @@
+{
+  "name": "nhapi",
+  "version": "0.0.1",
+  "description": "Voxel (Internap) Hosting API (hAPI) client",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/st-luke/nhapi.git"
+  },
+  "keywords": [
+    "hosting",
+    "hapi",
+    "voxel",
+    "internap",
+    "client"
+  ],
+  "author": "Luke Arduini <luke.arduini@me.com>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "2.9.x"
+  },
+  "engines": { "node": ">=0.6.0" }
+}
