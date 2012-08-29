@@ -27,3 +27,6 @@ client.call({method: 'voxel.devices.metrics.read', device_id: 1324, metric: 'ban
   console.log(res)
 })
 ```
+
+###License
+MIT/X11
