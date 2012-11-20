@@ -1,6 +1,6 @@
 {
   "name": "nhapi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Voxel (Internap) Hosting API (hAPI) client",
   "main": "index.js",
   "repository": {
